@@ -1,0 +1,14 @@
+{
+  "name": "rabbit-mq-testing",
+  "version": "0.0.1",
+  "description": "testing rabbitMQ for sending and receiving messages",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuri Predborski",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
